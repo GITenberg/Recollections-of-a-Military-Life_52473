@@ -1,0 +1,29 @@
+_repo: Recollections-of-a-Military-Life_52473
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Adye, John, Sir
+    alias: Adye, John Miller, Sir
+    birthdate: 1819
+    deathdate: 1900
+    gutenberg_agent_id: '2309'
+    url: http://www.gutenberg.org/2009/agents/2309
+    wikipedia: http://en.wikipedia.org/wiki/John_Miller_Adye
+description: ''
+gutenberg_issued: '2016-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52473'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Afghan Wars'
+- !lcsh 'Crimean War, 1853-1856'
+- !lcsh 'Egypt -- History -- British occupation, 1882-1936'
+- !lcsh 'India -- History -- Sepoy Rebellion, 1857-1858'
+- !lcc 'DA'
+- GITenberg
+title: Recollections of a Military Life
+url: http://www.gutenberg.org/ebooks/52473
